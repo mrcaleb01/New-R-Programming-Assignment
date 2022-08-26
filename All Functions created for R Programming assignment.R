@@ -58,3 +58,4 @@ filelist[2]
 read.csv(filelist[1])
 complete.cases(read.csv(filelist[1]))
 sum(complete.cases(read.csv(filelist[1])))
+
